@@ -1,22 +1,3 @@
-//Divide And Conquer
-
-//Author: Abhishek Kumar Suman
-//Roll number:181210002
-//Branch: CSE 2nd year
-
-//A program which which find the longest common prefix using Divide and Conquer algorithm.
-
-//Input : {"apple", "ape", "april"}
-//Output : "ap"
-
-//Input : {"asdfrew", "asdfght", "asdbnmn"}
-//Output : "asd"
-
-//Time complexity:Since we are iterating through all the characters of all the strings, so time complexity is O(NM),
-//where N is number of strings
-//      M is length of largest string.
-
-//C++ Program to find the longest common prefix
 
 #include <bits/stdc++.h>
 using namespace std;
