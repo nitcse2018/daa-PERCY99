@@ -1,14 +1,4 @@
-//Greedy Approach
 
-//Author: Abhishek Kumar Suman
-//Roll number:181210002
-//Branch: CSE 2nd year
-
-//Implementation of Dijisktra's Algorithm.
-
-//Time complexity: O(V^2) where, V is the number of vertices of the graph.
-
-//The program is for adjacency matrix representation of the graph.
 #include <bits/stdc++.h>
 using namespace std;
 
