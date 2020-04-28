@@ -1,15 +1,5 @@
 //Branch and Bound
 
-//Author: Abhishek Kumar Suman
-//Roll number:181210002
-//Branch: CSE 2nd year
-
-// Program to solve Job Assignment problem using Branch and Bound.
-
-/*Let there be N workers and N jobs. Any worker can be assigned to perform any job, 
-incurring some cost that may vary depending on the work-job assignment. It is required 
-to perform all jobs by assigning exactly one worker to each job and exactly one job to 
-each agent in such a way that the total cost of the assignment is minimized.*/
 
 //Program
 #include <bits/stdc++.h>
